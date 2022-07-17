@@ -3,7 +3,7 @@
   "id": "nyax0",
   "chainType": "Live",
   "bootNodes": [
-    "/dns/signal.kyattsu.network/tcp/30333/p2p/12D3KooWB6Kwyqgh5qtvJzShqA61RE1JFLwFUnV2kfkDMnhU6Acu"
+    "/dns/signal.kyattsu.network/tcp/30333/ws/p2p/12D3KooWB6Kwyqgh5qtvJzShqA61RE1JFLwFUnV2kfkDMnhU6Acu"
   ],
   "telemetryEndpoints": null,
   "protocolId": "nyax0",
